@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Hello User</label>
+    <screens>
+        <name>HelloUser</name>
+        <label>Hello User</label>
+        <locationX>50</locationX>
+        <locationY>52</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <fields>
+            <name>HelloUserField</name>
+            <fieldText>Hello {!UserName}!</fieldText>
+            <fieldType>DisplayText</fieldType>
+        </fields>
+    </screens>
+    <startElementReference>HelloUser</startElementReference>
+    <variables>
+        <name>UserName</name>
+        <dataType>String</dataType>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

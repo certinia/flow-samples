@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <webLinks>
+        <fullName>AddDefaultProducts</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Add Products by Type</masterLabel>
+        <openType>sidebar</openType>
+        <page>AddDefaultProductsFlow</page>
+        <protected>false</protected>
+    </webLinks>
+    <webLinks>
+        <fullName>InsertDefaultInstall</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Add Standard Installation</masterLabel>
+        <openType>sidebar</openType>
+        <page>InsertSLALinesFlow</page>
+        <protected>false</protected>
+    </webLinks>
+    <webLinks>
+        <fullName>UpdateOpportunityLines</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Update Opportunity Lines</masterLabel>
+        <openType>sidebar</openType>
+        <page>UpdateOpportunityLinesFlow</page>
+        <protected>false</protected>
+    </webLinks>
+</CustomObject>

@@ -1,0 +1,5 @@
+<apex:page standardController="Opportunity">
+    <flow:interview name="AddDefaultProducts" finishLocation="/{!Opportunity.Id}">
+        <apex:param name="OpportunityId" value="{!Opportunity.Id}"/>
+    </flow:interview>
+</apex:page>

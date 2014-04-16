@@ -1,0 +1,5 @@
+<apex:page >
+    <flow:interview name="HelloUser">
+        <apex:param name="UserName" value="{!$User.FirstName} {!$User.LastName}"/>
+    </flow:interview>
+</apex:page>
