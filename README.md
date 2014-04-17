@@ -7,7 +7,7 @@ Following on from this blog article, [Clicks not Code with Visual Flow Custom Bu
 
 Collection of Visual Flow samples from the April 2014, North UK Developer User Group presentation.
 
-Click [here](https://github.com/financialforcedev/dug-flow-samples/blob/master/Leeds%20DUG%20-%20April%202014%20-%20Flow.pdf) to view the Presentation.
+Click [here](https://github.com/financialforcedev/dug-flow-samples/blob/master/Leeds%20DUG%20-%20April%202014%20-%20Flow.pdf?raw=true) to view the Presentation.
 
 Sample Flows
 ------------
