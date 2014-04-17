@@ -16,6 +16,7 @@ Sample Flows
 - **Install Industrial Low**, Inserts some Opportunity Products from a Custom Button
 - **Add Default Products**, Inserts conditionally Opportunity Products  from a Custom Button
 - **Update Opportunity Lines**, Updates Opportunity Lines from a Custom Button
+- **Delete Opportunity Lines**, Delete Opportunity Lines (conditionally) from a Custom Button
 
 **NOTE:** Custom Buttons use Visualforce pages to invoke the above flows, for more details see presentation.
 
