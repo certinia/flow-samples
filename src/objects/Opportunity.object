@@ -12,6 +12,17 @@
         <protected>false</protected>
     </webLinks>
     <webLinks>
+        <fullName>DeleteProductLines</fullName>
+        <availability>online</availability>
+        <displayType>button</displayType>
+        <height>600</height>
+        <linkType>page</linkType>
+        <masterLabel>Delete Product Lines</masterLabel>
+        <openType>sidebar</openType>
+        <page>DeleteProductLinesFlow</page>
+        <protected>false</protected>
+    </webLinks>
+    <webLinks>
         <fullName>InsertDefaultInstall</fullName>
         <availability>online</availability>
         <displayType>button</displayType>

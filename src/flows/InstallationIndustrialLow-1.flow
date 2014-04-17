@@ -23,7 +23,7 @@
         <inputAssignments>
             <name>Quantity</name>
             <value>
-                <numberValue>1.0</numberValue>
+                <numberValue>2.0</numberValue>
             </value>
         </inputAssignments>
         <inputAssignments>
@@ -57,7 +57,7 @@
         <inputAssignments>
             <name>Quantity</name>
             <value>
-                <numberValue>2.0</numberValue>
+                <numberValue>1.0</numberValue>
             </value>
         </inputAssignments>
         <inputAssignments>

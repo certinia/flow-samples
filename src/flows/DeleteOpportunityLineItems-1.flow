@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Only those with Quantity 1</description>
+    <label>Delete Opportunity Line Items</label>
+    <recordDeletes>
+        <name>DeleteOpportuniotyLinesWithQuantity1</name>
+        <label>Delete Opportunioty Lines with Quantity 1</label>
+        <locationX>74</locationX>
+        <locationY>39</locationY>
+        <filters>
+            <field>OpportunityId</field>
+            <operator>EqualTo</operator>
+            <value>
+                <elementReference>OpportunityId</elementReference>
+            </value>
+        </filters>
+        <filters>
+            <field>Quantity</field>
+            <operator>EqualTo</operator>
+            <value>
+                <numberValue>1.0</numberValue>
+            </value>
+        </filters>
+        <object>OpportunityLineItem</object>
+    </recordDeletes>
+    <startElementReference>DeleteOpportuniotyLinesWithQuantity1</startElementReference>
+    <variables>
+        <name>OpportunityId</name>
+        <dataType>String</dataType>
+        <isInput>true</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>

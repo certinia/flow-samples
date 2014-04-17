@@ -18,6 +18,7 @@
     </types>
     <types>
         <members>Opportunity.AddDefaultProducts</members>
+        <members>Opportunity.DeleteProductLines</members>
         <members>Opportunity.InsertDefaultInstall</members>
         <members>Opportunity.UpdateOpportunityLines</members>
         <name>WebLink</name>
