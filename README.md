@@ -3,11 +3,11 @@ flow-samples
 
 [Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/?owner=financialforcedev&repo=dug-flow-samples)
 
-Following on from this blog article, [Clicks not Code with Visual Flow Custom Buttons](http://andyinthecloud.com/2014/02/19/clicks-not-code-with-visual-flow-custom-buttons/) 
+Collection of Visual Flow samples and the following presentatins and blogs shared by us.
 
-Collection of Visual Flow samples from the April 2014, North UK Developer User Group presentation.
-
-Click [here](https://github.com/financialforcedev/dug-flow-samples/blob/master/Leeds%20DUG%20-%20April%202014%20-%20Flow.pdf?raw=true) to view the Presentation.
+ - Click [here](https://github.com/financialforcedev/flow-samples/blob/master/Salesforce1%20World%20Tour%20-%20May%202014.pdf?raw=true) to view the **Salesforce1 World Tour London May 2014** presentation.
+ - Click [here](https://github.com/financialforcedev/dug-flow-samples/blob/master/Leeds%20DUG%20-%20April%202014%20-%20Flow.pdf?raw=true) to view the **Leeds Developer User Group April 2014** presentation.
+ - [Clicks not Code with Visual Flow Custom Buttons](http://andyinthecloud.com/2014/02/19/clicks-not-code-with-visual-flow-custom-buttons/) 
 
 Sample Flows
 ------------
