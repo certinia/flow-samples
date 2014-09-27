@@ -1,7 +1,10 @@
 flow-samples
 ============
 
-[Deploy to Salesforce](https://githubsfdeploy.herokuapp.com/?owner=financialforcedev&repo=dug-flow-samples)
+<a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=dug-flow-samples">
+  <img alt="Deploy to Salesforce"
+       src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
+</a>
 
 Collection of Visual Flow samples and the following presentatins and blogs shared by us.
 
